@@ -1,0 +1,32 @@
+{
+  "source": "/Users/nakanishiyatsuhiro/nishio_test/XcodeProject_with_o3/TranslateApp/TranslateApp/Views/TranslationResultView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "原文:",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 8
+        }
+      },
+      {
+        "comment": "",
+        "key": "翻訳結果",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 15
+        }
+      },
+      {
+        "comment": "",
+        "key": "プラカード表示",
+        "location": {
+          "startingColumn": 20,
+          "startingLine": 22
+        }
+      }
+    ]
+  },
+  "version": 1
+}

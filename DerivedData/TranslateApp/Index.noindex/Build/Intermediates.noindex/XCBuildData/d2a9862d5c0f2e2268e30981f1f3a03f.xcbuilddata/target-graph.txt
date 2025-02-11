@@ -1,0 +1,3 @@
+Target dependency graph (2 targets)
+Target 'TranslateApp' in project 'TranslateApp' (no dependencies)
+Target 'TranslateApp' in project 'TranslateApp' (no dependencies)

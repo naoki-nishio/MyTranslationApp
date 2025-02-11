@@ -1,0 +1,56 @@
+{
+  "source": "/Users/nakanishiyatsuhiro/nishio_test/XcodeProject_with_o3/TranslateApp/TranslateApp/Views/ContentView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "エラー: %@",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 40
+        }
+      },
+      {
+        "comment": "",
+        "key": "翻訳",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 50
+        }
+      },
+      {
+        "comment": "",
+        "key": "テキストを入力",
+        "location": {
+          "startingColumn": 42,
+          "startingLine": 13
+        }
+      },
+      {
+        "comment": "",
+        "key": "言語選択",
+        "location": {
+          "startingColumn": 42,
+          "startingLine": 22
+        }
+      },
+      {
+        "comment": "",
+        "key": "原文の言語",
+        "location": {
+          "startingColumn": 32,
+          "startingLine": 23
+        }
+      },
+      {
+        "comment": "",
+        "key": "翻訳先の言語",
+        "location": {
+          "startingColumn": 32,
+          "startingLine": 28
+        }
+      }
+    ]
+  },
+  "version": 1
+}

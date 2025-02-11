@@ -1,0 +1,59 @@
+{
+  "buildCommand" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : true,
+    "targets" : null
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "bb8ba0023ba4ec58d34eec82412c2eae1a0d2f60dd6285621857bf5a206d1f08"
+    }
+  ],
+  "containerPath" : "/Users/nakanishiyatsuhiro/nishio_test/XcodeProject_with_o3/TranslateApp/TranslateApp.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "dependencyScope" : "workspace",
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "indexbuild",
+    "activeArchitecture" : "x86_64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphonesimulator",
+      "sdk" : "iphonesimulator18.2",
+      "sdkVariant" : "iphonesimulator",
+      "supportedArchitectures" : [
+        "x86_64"
+      ],
+      "targetArchitecture" : "x86_64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/nakanishiyatsuhiro/nishio_test/XcodeProject_with_o3/TranslateApp/DerivedData/TranslateApp/Index.noindex/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/nakanishiyatsuhiro/nishio_test/XcodeProject_with_o3/TranslateApp/DerivedData/TranslateApp/Index.noindex/Build/Products",
+      "derivedDataPath" : "/Users/nakanishiyatsuhiro/nishio_test/XcodeProject_with_o3/TranslateApp/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/nakanishiyatsuhiro/nishio_test/XcodeProject_with_o3/TranslateApp/DerivedData/TranslateApp/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/nakanishiyatsuhiro/nishio_test/XcodeProject_with_o3/TranslateApp/DerivedData/TranslateApp/Index.noindex/PrecompiledHeaders",
+      "indexRegularBuildIntermediatesPath" : "/Users/nakanishiyatsuhiro/nishio_test/XcodeProject_with_o3/TranslateApp/DerivedData/TranslateApp/Build/Intermediates.noindex",
+      "indexRegularBuildProductsPath" : "/Users/nakanishiyatsuhiro/nishio_test/XcodeProject_with_o3/TranslateApp/DerivedData/TranslateApp/Build/Products",
+      "pchPath" : "/Users/nakanishiyatsuhiro/nishio_test/XcodeProject_with_o3/TranslateApp/DerivedData/TranslateApp/Index.noindex/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO",
+          "ENABLE_XOJIT_PREVIEWS" : "NO",
+          "ONLY_ACTIVE_ARCH" : "YES"
+        }
+      }
+    }
+  },
+  "qos" : "default",
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}
