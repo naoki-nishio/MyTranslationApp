@@ -1,2 +1,0 @@
-Target dependency graph (1 target)
-Target 'TranslateApp' in project 'TranslateApp' (no dependencies)
