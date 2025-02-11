@@ -1,0 +1,97 @@
+# -------------------------------
+# macOS 固有の不要ファイル
+# -------------------------------
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Spotlight の検索データベース
+.Spotlight-V100
+
+# ゴミ箱に移動されたファイル
+.Trashes
+
+# macOS のメタデータ
+._*
+
+# Icon?
+Icon?
+
+# ._* ファイル
+*.swp
+
+# -------------------------------
+# Xcode 固有のファイル
+# -------------------------------
+
+# ビルドフォルダ
+build/
+DerivedData/
+*.xcworkspace
+*.xcuserstate
+xcuserdata/
+
+# Xcode の自動生成ファイル
+*.xcodeproj/project.xcworkspace/
+*.xcodeproj/xcuserdata/
+
+# Swift Package Manager
+Packages/
+Package.resolved
+.swiftpm/
+.build/
+
+# CocoaPods
+Pods/
+Podfile.lock
+
+# Carthage
+Carthage/
+Carthage/Build/
+
+# Fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots/**/*.png
+fastlane/test_output/
+
+# Xcode Server のキャッシュ
+server.xcconfig
+
+# -------------------------------
+# API キーや機密情報
+# -------------------------------
+# 環境変数やシークレットファイル
+Config.xcconfig
+Secrets.plist
+.env
+*.key
+*.pem
+*.crt
+
+# Firebase の Google サービスファイル
+GoogleService-Info.plist
+
+# -------------------------------
+# ログ・キャッシュファイル
+# -------------------------------
+*.log
+*.tmp
+*.lock
+*.bak
+
+# -------------------------------
+# テスト出力や一時ファイル
+# -------------------------------
+*.moved-aside
+*.hmap
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+# -------------------------------
+# その他
+# -------------------------------
+.idea/
+.vscode/
+*.orig
