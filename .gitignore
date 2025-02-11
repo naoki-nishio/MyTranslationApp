@@ -95,3 +95,4 @@ GoogleService-Info.plist
 .idea/
 .vscode/
 *.orig
+Info.plist
