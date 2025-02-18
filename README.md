@@ -12,17 +12,10 @@ TranslationApp は、**SwiftUI** で構築されたシンプルかつ直感的�
 
 ---
 
-## 🛠️ 使用技術
+## 🛠 使用技術
 
 - **SwiftUI**：宣言型 UI フレームワークでシンプルなコード構成
 - **DeepL API**：高精度な機械翻訳 API との連携
 
 ---
 
-## 📦 インストールとセットアップ
-
-### 1️⃣ **リポジトリのクローン**
-
-```bash
-git clone https://github.com/your-username/TranslationApp.git
-cd TranslationApp
